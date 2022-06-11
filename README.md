@@ -8,7 +8,7 @@ yarn
 yarn dev
 ```
 
-- app home will run in port 3000
+- app-shell (home) will run in port 3000
 - app2 run on port 3002
 - app3 run on port 3003
 - change any app2 or app3, we don't need to rebuild shell
