@@ -1,11 +1,18 @@
 # This is example how to use `use-lazy-module-federation` and `turborepo`
 
-### Develop
+## Develop
 - To develop all apps and packages, run the following command:
 
 ```
 yarn
 yarn dev
+```
+
+## Build production
+
+```
+yarn build
+yarn start
 ```
 
 - app-shell (home) will run in port 3000
