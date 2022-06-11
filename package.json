@@ -2,7 +2,7 @@
   "name": "use-lazy-module-federation-example",
   "version": "0.0.0",
   "private": true,
-  "main": "apps/app-shell/src/index.js",
+  "main": "apps/app-shell/build/index.html",
   "workspaces": [
     "apps/*",
     "packages/*"
