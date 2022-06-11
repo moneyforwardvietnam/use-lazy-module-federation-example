@@ -1,5 +1,4 @@
 # This is example how to use `use-lazy-module-federation` and `turborepo`
-- []
 
 ### Develop
 - To develop all apps and packages, run the following command:
