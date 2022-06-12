@@ -1,7 +1,7 @@
 # This is example how to use `use-lazy-module-federation` and `turborepo`
 
 ## Develop
-- To develop all apps and packages, run the following command:
+- run the following command:
 
 ```
 yarn
@@ -9,19 +9,20 @@ yarn dev
 ```
 
 ## Build production
-
+- run the following command:
 ```
 yarn build
 yarn start
 ```
 
-- app-shell (home) will run in port 3000
+- app-shell (home) will run in port 3001
 - app2 run on port 3002
 - app3 run on port 3003
 - change any app2 or app3, we don't need to rebuild shell
 
 ## Useful Links
 - [use-lazy-module-federation](https://www.npmjs.com/package/use-lazy-module-federation)
+
 Learn more about the power of Turborepo:
 
 - [Pipelines](https://turborepo.org/docs/core-concepts/pipelines)
